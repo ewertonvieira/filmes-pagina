@@ -15,7 +15,7 @@ body {
 
 .conteiner form {
     position: absolute;
-    top: 50%;
+    top: 46%;
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: white;
@@ -24,6 +24,8 @@ body {
 h2{
     margin-bottom: 30px;
     text-align: center;
+    font-size: 37px;
+    margin: 2;
 }
 div input {
     width: 530px;
@@ -40,4 +42,6 @@ form button {
     height: 40px;
     border-radius: 12px;
     font-size: 17px;
+    color: white;
+    background-color: #252638;
 }
